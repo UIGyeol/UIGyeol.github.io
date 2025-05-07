@@ -54,12 +54,13 @@ skills:
   column1:
     items:
       - label: "Cybersecurity & Forensics" #0-10 progress in dots
-        text: Network Security (iptables, DMZ)\nIncident Response & Forensics\nVulnerability Assessment (Nmap, Nessus)"
+        text: Network Security (iptables, DMZ) Incident Response & Forensics Vulnerability Assessment (Nmap, Nessus)"
         value: "85" #0-100 progress in %
   column2:
     items:
       - label: "Cryptography & Development" #0-10 progress in dots
-        text: "Python (Crypto, Scripts)\nChaCha20 / AES / RSA Implementation\nBash & Linux Automation\n"
+        text: "Python (Crypto, Scripts)ChaCha20 / AES / RSA 
+        Implementation Bash & Linux Automation"
         value: "75" #0-100 progress in %
 
   column3:
