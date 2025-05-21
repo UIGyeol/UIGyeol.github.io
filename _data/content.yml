@@ -85,129 +85,114 @@ resume:
         period: "2024-2025"
         text: "Network Security "
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
   experience:
     title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Internship"
+        subname: "Norma Inc."
+        period: "2025 - <b>Present</b>"
+        text: "Supported research and documentation by organizing key principles and practical applications of quantum algorithms through in-depth technical analysis."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Project Manager"
+        subname: "ransomware project"
+        period: "2025"
+        text: "Served as the project manager for a ransomware response project, overseeing timelines, coordinating the team, and leading threat analysis and response planning. Designed and executed scenario-based simulations using various security tools to enhance practical cybersecurity readiness"
 
 
-### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  subtitle: "what <b>Customers Say</b>"
-  bg_title: "Reviews"
+# ### Testimonials [ testimonials ]
+# testimonials:
+#   title: "Testimonials"
+#   subtitle: "what <b>Customers Say</b>"
+#   bg_title: "Reviews"
 
-  items:
-    - image: "assets/img/testimonials/testi4-2.jpg"
-      name: "Barbara Wilson"
-      role: "CEO Company"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   items:
+#     - image: "assets/img/testimonials/testi4-2.jpg"
+#       name: "Barbara Wilson"
+#       role: "CEO Company"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-1.jpg"
-      name: "Charlie Smith"
-      role: "Designer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-1.jpg"
+#       name: "Charlie Smith"
+#       role: "Designer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
-      name: "Roy Wang"
-      role: "Manager GYM"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-4.jpg"
+#       name: "Roy Wang"
+#       role: "Manager GYM"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-3.jpg"
-      name: "Jennifer Smith"
-      role: "CEO &amp; Founder"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-3.jpg"
+#       name: "Jennifer Smith"
+#       role: "CEO &amp; Founder"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-5.jpg"
-      name: "Paul Freeman"
-      role: "Photographer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-5.jpg"
+#       name: "Paul Freeman"
+#       role: "Photographer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  subtitle: "my <b>Price Board</b>"
-  bg_title: "Pricing"
+# ### Pricing [ pricing ]
+# pricing:
+#   title: "Pricing"
+#   subtitle: "my <b>Price Board</b>"
+#   bg_title: "Pricing"
 
-  items:
-    - name: "Hourley Basis"
-      center: false
-      price: "39 <b>$</b>"
-      price_after: "Hour"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: false
-        - value: "Photography"
-          included: false
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#   items:
+#     - name: "Hourley Basis"
+#       center: false
+#       price: "39 <b>$</b>"
+#       price_after: "Hour"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: false
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
-    - name: "Freelancing"
-      center: true
-      label: "Popular"
-      price: "259 <b>$</b>"
-      price_after: "Week"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: true
-        - value: "Photography"
-          included: false
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#     - name: "Freelancing"
+#       center: true
+#       label: "Popular"
+#       price: "259 <b>$</b>"
+#       price_after: "Week"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
-    - name: "Full Time"
-      center: false
-      price: "1.249 <b>$</b>"
-      price_after: "Month"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: true
-        - value: "Photography"
-          included: true
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#     - name: "Full Time"
+#       center: false
+#       price: "1.249 <b>$</b>"
+#       price_after: "Month"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: true
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
 
 ### Blog [ blog ]
