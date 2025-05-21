@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "세미전공자의 네트워크 관리사 2주 합격 공부법과 후기"
+title: "2024년 네트워크 관리사 2주 합격 공부법과 후기"
 date: 2025-05-14 10:00:00 +0900
 author: UIGYEOL
 categories: [network, 자격증]
