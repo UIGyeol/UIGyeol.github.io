@@ -46,6 +46,11 @@ $light_error_color: red;
 	- Line Height
 	- Mixins
 */
+.exile-regular {
+  font-family: "Exile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* Fonts */
 $default_font: "Ancizar Sans", sans-serif;
