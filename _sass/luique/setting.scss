@@ -46,18 +46,17 @@ $light_error_color: red;
 	- Line Height
 	- Mixins
 */
-.exile-regular {
-  font-family: "Exile", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
+
+/* Font Imports are assumed to be in HTML <head> via Google Fonts */
 
 /* Fonts */
-$default_font: "Ancizar Sans", sans-serif;
+$default_font: 'Jost', sans-serif;
+$heading_font: 'Oswald', sans-serif;
+$paragraph_font: 'Roboto', sans-serif;
 $extra_font: 'Sorts Mill Goudy';
+$exile_font: 'Exile', system-ui;
 
 /* Fonts Size */
-
 $default_size: 20px;
 
 $section_h1_size: 138px;
@@ -82,7 +81,7 @@ $font_weight: 300;
 /* Line Height */
 $line_height: 1.5;
 
-/*Mixins*/
+/* Mixins */
 @mixin border-radius($radius) {
 	border-radius: $radius;
 	-moz-border-radius: $radius;
@@ -109,4 +108,34 @@ $line_height: 1.5;
 	-webkit-transform: $param;
 	-moz-transform: $param;
 	-o-transform: $param;
+}
+
+/* =========================
+   === GLOBAL FONT STYLES ==
+   ========================= */
+
+body {
+	font-family: $default_font;
+	font-size: $default_size;
+	line-height: $line_height;
+	color: $default_color;
+	background-color: $default_bg;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $heading_font;
+	font-weight: 600;
+	margin: 0;
+}
+
+p, a, li, span, div {
+	font-family: $paragraph_font;
+	font-weight: 400;
+}
+
+/* Optional: for specific sections */
+.exile-regular {
+	font-family: $exile_font;
+	font-weight: 400;
+	font-style: normal;
 }
