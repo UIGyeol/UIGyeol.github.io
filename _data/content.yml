@@ -80,10 +80,10 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Poly-Tech colleage"
+        subname: "Cybersecurity"
+        period: "2024-2025"
+        text: "Network Security "
 
       - name: "Lviv National Academy of Arts"
         subname: "Faculty of Design"
