@@ -9,14 +9,14 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    image: "assets/img/logo_myname.png"
+    alt: "KEG"
 
 ### Header
 header:
   logo:
-    image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    image: "assets/img/logo_myname.png"
+    alt: "KEG"
 
 ### Social
 social:
