@@ -229,12 +229,12 @@ contacts:
     #   icon: "far fa-address-book"
     #   text: "+1 900 - 900 - 9000"
 
-### Portfolio [ portfolio ]
-#items generates from dir /_works/*
-portfolio:
-  title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
-  button:
-    link: "works/"
-    label: "View More"
+# ### Portfolio [ portfolio ]
+# #items generates from dir /_works/*
+# portfolio:
+#   title: "Portfolio"
+#   subtitle: "my <b>Cases</b>"
+#   bg_title: "Portfolio"
+#   button:
+#     link: "works/"
+#     label: "View More"
