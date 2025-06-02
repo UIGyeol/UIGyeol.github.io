@@ -15,7 +15,7 @@ preloader:
 ### Header
 header:
   logo:
-    image: "assets/img/logo_myname.png"
+    image: "assets/img/logo_myname.gif"
     alt: "KEG"
 
 ### Social
