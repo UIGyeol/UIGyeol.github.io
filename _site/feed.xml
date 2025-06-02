@@ -1,114 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-29T13:46:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Admin</name></author><entry><title type="html">By spite about do of do allow</title><link href="http://localhost:4000/music/2020/08/05/by-spite-about/" rel="alternate" type="text/html" title="By spite about do of do allow" /><published>2020-08-05T00:00:00+03:00</published><updated>2020-08-05T00:00:00+03:00</updated><id>http://localhost:4000/music/2020/08/05/by-spite-about</id><content type="html" xml:base="http://localhost:4000/music/2020/08/05/by-spite-about/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-14T14:14:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">세미전공자의 네트워크 관리사 2주 합격 공부법과 후기</title><link href="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/" rel="alternate" type="text/html" title="세미전공자의 네트워크 관리사 2주 합격 공부법과 후기" /><published>2025-05-14T10:00:00+09:00</published><updated>2025-05-14T10:00:00+09:00</updated><id>http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips</id><content type="html" xml:base="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/"><![CDATA[<h2 id="1-네트워크-관리사-자격증이란">1. 네트워크 관리사 자격증이란?</h2>
 
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
+<p>정보통신기술자격협회에서 주관하는 자격증으로, <strong>네트워크 관련 실무 능력을 인증</strong>하는 시험입니다.</p>
 
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
+<hr />
 
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="2-자격증-종류와-난이도">2. 자격증 종류와 난이도</h2>
 
-<ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>자격</th>
+      <th>필기</th>
+      <th>실기</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2급</strong></td>
+      <td>객관식 60문제</td>
+      <td>윈도우/리눅스 환경에서 네트워크 설정 실습</td>
+    </tr>
+    <tr>
+      <td><strong>1급</strong></td>
+      <td>필기 + 논술형 포함</td>
+      <td>고급 네트워크 구성 실습 (서브넷 분할, VLAN 등)</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<p>✅ <strong>2급</strong>은 입문자나 세미전공자에게 적합합니다.</p>
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Music" /><category term="rock" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog9.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Two Before Arrow Not Relied</title><link href="http://localhost:4000/design/2020/07/20/two-before-arrow/" rel="alternate" type="text/html" title="Two Before Arrow Not Relied" /><published>2020-07-20T00:00:00+03:00</published><updated>2020-07-20T00:00:00+03:00</updated><id>http://localhost:4000/design/2020/07/20/two-before-arrow</id><content type="html" xml:base="http://localhost:4000/design/2020/07/20/two-before-arrow/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+<hr />
 
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
-
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
-
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
-
-<ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
-</ul>
-
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
-
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="code" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design in Mobile Application</title><link href="http://localhost:4000/mobile/2020/07/05/design-in-mobile/" rel="alternate" type="text/html" title="Design in Mobile Application" /><published>2020-07-05T00:00:00+03:00</published><updated>2020-07-05T00:00:00+03:00</updated><id>http://localhost:4000/mobile/2020/07/05/design-in-mobile</id><content type="html" xml:base="http://localhost:4000/mobile/2020/07/05/design-in-mobile/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
-
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
-
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
-
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="3-필기-공부법">3. 필기 공부법</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li>교재 없이 <strong>CBT 기출문제</strong>를 암기식으로 공부했습니다.</li>
+  <li>하루 2시간씩 아래 사이트에서 꾸준히 풀었습니다.<br />
+👉 <a href="https://www.comcbt.com/xe/jf">CBT 문제풀이 사이트</a></li>
+  <li>헷갈리는 개념은 유튜브에서 설명 영상으로 보완했습니다.</li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Mobile" /><category term="app" /><category term="mobile" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">By spite about what to do</title><link href="http://localhost:4000/design/2020/06/15/by-spite-what/" rel="alternate" type="text/html" title="By spite about what to do" /><published>2020-06-15T00:00:00+03:00</published><updated>2020-06-15T00:00:00+03:00</updated><id>http://localhost:4000/design/2020/06/15/by-spite-what</id><content type="html" xml:base="http://localhost:4000/design/2020/06/15/by-spite-what/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
-
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
-
-<blockquote>
-  <p>For me, the design — it is the quality of life. Good design has little to do with trends. Tired of listening to how he try to give the status of a frivolous fashion phenomenon. In my opinion, the designer should strive to do more than separate things.</p>
-</blockquote>
-
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="4-실기-공부법">4. 실기 공부법</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li>유튜브 <strong>햄릿슈TV</strong>에서 오리엔테이션 및 2025년 가답안 분석:<br />
+<a href="https://www.youtube.com/@TV-jx3dr/videos">햄릿슈TV 유튜브</a></li>
+  <li><strong>우진아빠의 네트워크 실무</strong> 강력 추천! 실기에서 실제로 출제된 부분 있음:<br />
+<a href="https://www.youtube.com/@tech-network">우진아빠 유튜브</a></li>
+  <li>가답안 다운로드는 꼭 필수!<br />
+<a href="https://www.icqa.or.kr/cn/board/dataroom/21?sca=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC">ICQA 공식자료실</a></li>
+  <li>라우터 문제는 아래 포함한 여러 블로그에서 전방위로 학습했습니다.<br />
+<a href="https://ohaengsa.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89-%EC%8B%A4%EA%B8%B0-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EB%AC%B8%EC%A0%9C-%EA%B8%B0%EC%B6%9C">라우터 기출 블로그</a></li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="Jekyll" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-08T00:00:00+02:00</published><updated>2020-01-08T00:00:00+02:00</updated><id>http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in <a href="https://jekyllrb.com/docs/usage/">many different ways</a>, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<h2 id="5-utp-케이블-제작-팁">5. UTP 케이블 제작 팁</h2>
 
-<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code><sup id="fnref:posts" role="doc-noteref"><a href="#fn:posts" class="footnote" rel="footnote">1</a></sup> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<ul>
+  <li>공부 의욕이 없을 때는 그냥 <strong>햄릿슈 영상 보면서 따라함</strong></li>
+  <li>시험에서 주는 랜툴은 품질이 별로이므로 <strong>개인 구매 추천</strong></li>
+</ul>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span>
-</code></pre></div></div>
+<h2 id="-필기-2주-요약">📚 필기 2주 요약</h2>
 
-<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+<ul>
+  <li>최소 하루 2시간 공부</li>
+  <li>CBT 반복 (폰으로도 가능)</li>
+  <li><strong>이해보다는 암기 위주</strong>로 접근해도 무방</li>
+</ul>
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:posts" role="doc-endnote">
-      <p>Footnote test. <a href="#fnref:posts" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Sarah Rose</name></author><category term="[&quot;Video&quot;, &quot;Music&quot;]" /><category term="Jekyll" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-4-scaled-1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-4-scaled-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<hr />
+
+<h2 id="-실기-2주-요약">🔧 실기 2주 요약</h2>
+
+<ul>
+  <li>하루 2시간씩 실기 공부</li>
+  <li>유튜브 영상 반복 시청 (지하철에서도 시청)</li>
+  <li>라우터 문제 하루 2회 이상 실습</li>
+  <li>케이블 제작은 <strong>반복 실습 필수</strong></li>
+  <li>암기 위주 단답형 문제도 지하철에서 계속 읽음</li>
+</ul>
+
+<hr />
+
+<h2 id="️-마무리">✍️ 마무리</h2>
+
+<p>세미전공자 기준으로 <strong>2주간 집중 공부</strong>로 충분히 합격 가능했습니다.<br />
+포인트는 <strong>꾸준함 + 기출 반복 + 영상 활용</strong>입니다.</p>]]></content><author><name>UIGYEOL</name></author><category term="network" /><category term="자격증" /><category term="네트워크관리사" /><category term="2급" /><category term="후기" /><category term="공부법" /><category term="실기" /><summary type="html"><![CDATA[1. 네트워크 관리사 자격증이란?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/networkcertification.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/networkcertification.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
