@@ -9,28 +9,28 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/logo_myname.gif"
+    image: "assets/img/logo_myname.png"
     alt: "KEG"
 
 ### Header
 header:
   logo:
-    image: "assets/img/logo_myname.gif"
+    image: "assets/img/logo_myname.png"
     alt: "KEG"
 
-### Social
-social:
-  - title: "Twitter"
-    icon: "fab fa-twitter"
-    url: "http://twitter.com"
+# ### Social
+# social:
+#   - title: "Twitter"
+#     icon: "fab fa-twitter"
+#     url: "http://twitter.com"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+#   - title: "Dribbble"
+#     icon: "fab fa-dribbble"
+#     url: "http://dribbble.com"
 
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+#   - title: "Behance"
+#     icon: "fab fa-behance"
+#     url: "http://behance.com"
 
 ### Footer
 footer:
