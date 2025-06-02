@@ -35,14 +35,14 @@ services:
     - title: "System Hardening  &amp; Network Defense"
       subtitle: "Cybersecurity Consulting"
       text: "Secure system architecture design, firewall rule setup such as iptables, and practical defense strategies for internal/DMZ/Untrust zones."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+      # button_label: "See Pricing"
+      # button_link: "#pricing-section"
 
     - title: "AES, ChaCha20, RSA, and Post-Quantum Crypto"
       subtitle: "Cryptographic Development"
       text: "Simulated APT attack analysis, log correlation (syslog/Snort), and forensic reporting in response to incidents like Heartbleed and Medusa ransomware."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+      # button_label: "See Pricing"
+      # button_link: "#pricing-section"
 
 
 ### Skills [ skills ]
