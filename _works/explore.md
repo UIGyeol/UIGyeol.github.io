@@ -24,14 +24,6 @@ description1:
   <p>이 프로젝트는 기본 정책을 모두 DROP으로 설정하여 최소 권한 원칙을 적용하고, 상태 기반 정책으로 정상적인 응답 트래픽만 허용하며, SSH·HTTP·DNS 등 특정 서비스에 대해 지정된 IP나 영역만 접근할 수 있도록 제어하고, 이러한 방화벽 정책을 쉘 스크립트로 자동화하여 관리 효율성을 높이며, 실제 네트워크 구성과 정책 설정을 통해 방화벽의 동작 원리와 보안 적용 방법을 실습을 통해 체득하는 것을 목표로 한다.</p>"
 
 gallery:
-  - assets/img/works/work3.png
-  - assets/img/works/work4.png
-  - assets/img/works/work5.png
-  - assets/img/works/work6.png
-  - assets/img/works/work7.png
-  - assets/img/works/work8.png
-  - assets/img/works/work9.png
-  - assets/img/works/work10.png
   - assets/img/works/work11.png
   - assets/img/works/work12.png
   - assets/img/works/work13.png
