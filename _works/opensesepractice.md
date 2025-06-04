@@ -32,4 +32,5 @@ gallery:
   - assets/img/works/work213.png
   - assets/img/works/work214.png
   - assets/img/works/work215.png
-  ---
+
+---
