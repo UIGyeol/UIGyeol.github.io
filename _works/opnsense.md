@@ -29,9 +29,6 @@ gallery:
   - assets/img/works/work25.png
   - assets/img/works/work26.png
   - assets/img/works/work27.png
-  - assets/img/works/work28.png
-  - assets/img/works/work29.png
-  - assets/img/works/work210.png
   - assets/img/works/work211.png
   - assets/img/works/work212.png
   - assets/img/works/work213.png
