@@ -29,15 +29,4 @@ gallery:
   - assets/img/works/work213.png
   - assets/img/works/work214.png
   - assets/img/works/work215.png
-
-# description2:
-#   title: Project Result
-#   text: |
-#     <p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquet morbi.</p>
-#     <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut.</p>
-#     <p>Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed.</p>
-#     <p>Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>
-# video: 
-# poster: assets/img/blog/blog9.jpg
-# id: Gu6z6klukgg
-# ---
+  ---
