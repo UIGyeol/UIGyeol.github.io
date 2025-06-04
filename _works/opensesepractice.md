@@ -1,10 +1,12 @@
 ---
+# preview details
+
 layout: works-single
-title: "OPNsense를 이용한 방화벽 구성"
-category: [fw, opnsense]
+title: Building Firewall with OPNsense
+category: fw, opnsense
 category_slug: opnsense
 image: assets/img/works/work21.png
-short_description: "이 프로젝트는 OPNsense 기반 방화벽 시스템을 구축하여 WAN, DMZ, 내부망으로 구성된 네트워크 환경에서 어댑터 설정, IP 할당, 시간 동기화 등을 수행하는 프로젝트입니다."
+short_description: 이 프로젝트는 OPNsense 기반 방화벽 시스템을 구축하여 WAN, DMZ, 내부망으로 구성된 네트워크 환경에서 어댑터 설정, IP 할당, 시간 동기화 등을 수행하는 프로젝트입니다.
 live_preview: https://bslthemes.com
 full_image: assets/img/works/work21.png
 info:
