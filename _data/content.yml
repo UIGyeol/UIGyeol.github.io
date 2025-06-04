@@ -29,7 +29,7 @@ hero:
 services:
   title: "What I Do!!"
   subtitle: "my <b>Services</b>"
-  bg_title: "Services"
+  bg_title: ""
 
   items:
     - title: "System Hardening  &amp; Network Defense"
@@ -49,7 +49,7 @@ services:
 skills:
   title: "Professional Skills"
   subtitle: "my <b>Talent</b>"
-  bg_title: "Skills"
+  bg_title: ""
 
   column1:
     items:
