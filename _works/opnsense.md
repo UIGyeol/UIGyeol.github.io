@@ -5,7 +5,7 @@ title: IPnsense를 이용한 방화벽 구성
 category: fw, opnsense
 category_slug: opnsense
 image: assets/img/works/work21.png
-short_description: "이 프로젝트는 OPNsense 기반 방화벽 시스템을 구축하여 WAN, DMZ, 내부망으로 구성된 네트워크 환경에서 어댑터 설정, IP 할당, 시간 동기화 등을 수행하는 프로젝트 입니다."
+short_description: 이 프로젝트는 OPNsense 기반 방화벽 시스템을 구축하여 WAN, DMZ, 내부망으로 구성된 네트워크 환경에서 어댑터 설정, IP 할당, 시간 동기화 등을 수행하는 프로젝트 입니다.
 
 # full details
 live_preview: https://bslthemes.com
@@ -33,13 +33,3 @@ gallery:
   - assets/img/works/work214.png
   - assets/img/works/work215.png
  
-# description2:
-#   title: Project Result
-#   text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-#   <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
-
-# video:
-#   poster: assets/img/blog/blog9.jpg
-#   id: Gu6z6kIukgg
-
-# ---
