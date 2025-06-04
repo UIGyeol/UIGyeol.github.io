@@ -28,7 +28,7 @@ hero:
 ### Services [ services ]
 services:
   title: "What I Do!!"
-  subtitle: "my <b>Services</b>"
+  subtitle: "<b> my </b>"
   bg_title: ""
 
   items:
@@ -48,7 +48,7 @@ services:
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
-  subtitle: "my <b>Talent</b>"
+  subtitle: "<b>my</b>"
   bg_title: ""
 
   column1:
