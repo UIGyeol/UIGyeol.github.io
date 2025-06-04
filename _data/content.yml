@@ -12,8 +12,8 @@ hero:
   after_title: "I am <strong>cybersecurity expert</strong>"
   description: "From Poly-Tech colleage. "
   button1:
-    label: "Download resume"
-    link: "#"
+    label: "github"
+    link: "https://github.com/UIGyeol"
   button2:
     label: "My Skills"
     link: "#skills-section"
