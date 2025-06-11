@@ -9,7 +9,7 @@ short_description:  iptables를 활용해 Intra, DMZ, Untrust 영역으로 구�
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/work3.png
+full_image: assets/img/works/work30.png
 info:
   - label: Year
     value: 2025
