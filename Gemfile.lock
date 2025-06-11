@@ -10,18 +10,16 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-<<<<<<< HEAD
-    ffi (1.17.2-arm64-darwin)
-    ffi (1.17.2-x64-mingw-ucrt)
-=======
     ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
->>>>>>> 0a6bcfb8e4d545ef0bbf9094a0838070e90e815b
     forwardable-extended (2.6.0)
     google-protobuf (4.30.2-arm64-darwin)
       bigdecimal
       rake (>= 13)
     google-protobuf (4.30.2-x64-mingw-ucrt)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.30.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -76,6 +74,8 @@ GEM
     sass-embedded (1.88.0-arm64-darwin)
       google-protobuf (~> 4.30)
     sass-embedded (1.88.0-x64-mingw-ucrt)
+      google-protobuf (~> 4.30)
+    sass-embedded (1.88.0-x86_64-linux-gnu)
       google-protobuf (~> 4.30)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)

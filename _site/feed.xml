@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-14T14:14:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">세미전공자의 네트워크 관리사 2주 합격 공부법과 후기</title><link href="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/" rel="alternate" type="text/html" title="세미전공자의 네트워크 관리사 2주 합격 공부법과 후기" /><published>2025-05-14T10:00:00+09:00</published><updated>2025-05-14T10:00:00+09:00</updated><id>http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips</id><content type="html" xml:base="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/"><![CDATA[<h2 id="1-네트워크-관리사-자격증이란">1. 네트워크 관리사 자격증이란?</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-11T05:11:45+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">김의결의 기술블로그</title><subtitle>Always question—and verify thoroughly.</subtitle><author><name>김의결</name></author><entry><title type="html">2025년 정보보호 취업박람회 후기</title><link href="http://localhost:4000/cybersecurity/career/2025/06/04/ISfair/" rel="alternate" type="text/html" title="2025년 정보보호 취업박람회 후기" /><published>2025-06-04T00:00:00+00:00</published><updated>2025-06-04T00:00:00+00:00</updated><id>http://localhost:4000/cybersecurity/career/2025/06/04/ISfair</id><content type="html" xml:base="http://localhost:4000/cybersecurity/career/2025/06/04/ISfair/"><![CDATA[<h2 id="1-요구-자격증">1. 요구 자격증</h2>
+
+<ul>
+  <li><strong>정보보안기사</strong>를 요구하는 회사가 많았고, 실질적으로 대부분의 기업이 이를 기본 요건처럼 보고 있는 분위기였다.</li>
+  <li>일부 기업에서는 <strong>컴퓨터활용능력</strong> 등 사무/문서 계열 자격증도 고려하는 모습이었으며, 실무 활용성을 중요시하는 경향이 있었다.</li>
+  <li><strong>CPPG</strong>(개인정보관리사)를 요구하는 기업도 다수 있었으며, 개인정보 보호와 관련된 인증을 중시하고 있음을 알 수 있었다.</li>
+</ul>
+
+<h2 id="2-프로그래밍-언어-요구-사항">2. 프로그래밍 언어 요구 사항</h2>
+
+<ul>
+  <li>한 가지 언어만을 특정해서 요구하는 기업은 거의 없었고, <strong>기업 내부에서 다양한 언어 사용</strong>이 이뤄지고 있었다.</li>
+  <li>Java, Python, C, JavaScript, Go, SQL 등 <strong>업무에 따라 유동적인 스택 구성을 선호</strong>하는 경향이 뚜렷했다.</li>
+</ul>
+
+<h2 id="3-면접관-구성-및-분위기">3. 면접관 구성 및 분위기</h2>
+
+<ul>
+  <li>개발자보다는 <strong>인사과 소속의 면접관이 많은 비중을 차지</strong>했고, 기술적인 깊이보다는 지원자의 태도나 이력서를 중심으로 평가하려는 분위기였다.</li>
+  <li>실무 인터뷰보다는 <strong>다양한 지원자의 이력을 미리 확인하고 가능성을 엿보는 목적</strong>의 채용이 많아 보였다.</li>
+</ul>
+
+<h2 id="4-포트폴리오-및-프로젝트-경험">4. 포트폴리오 및 프로젝트 경험</h2>
+
+<ul>
+  <li>모든 기업이 입을 모아 강조한 것이 바로 <strong>포트폴리오의 중요성</strong>이었다.</li>
+  <li>특히 단순한 참여보다 <strong>PM(프로젝트 매니저) 역할 경험</strong>, 전체 프로젝트를 기획·조율한 경험이 큰 메리트로 작용하는 듯했다.</li>
+  <li>사이버보안 실습, 해킹 방어 시스템 개발, 네트워크 보안 시뮬레이션 등 <strong>다양한 프로젝트 경험이 강력한 무기가 될 수 있음</strong>을 체감했다.</li>
+</ul>
+
+<hr />
+
+<blockquote>
+  <p><strong>Tip</strong>: 정량적인 자격 요건만큼이나, 내가 주도적으로 해본 프로젝트와 그것을 어떻게 설명할 수 있느냐가 중요했고 리눅스 자격증을 요구하지는 않았지만 할 줄 아냐는 질문을 많이 받았다.</p>
+</blockquote>]]></content><author><name>UIGYEOL</name></author><category term="[&quot;Cybersecurity&quot;, &quot;Career&quot;]" /><category term="정보보안기사" /><category term="CPPG" /><category term="포트폴리오" /><category term="취업박람회" /><category term="PM경험" /><summary type="html"><![CDATA[1. 요구 자격증]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/ISfair01.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/ISfair01.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SKT 유심 정보 유출 사건</title><link href="http://localhost:4000/%EC%A0%95%EB%B3%B4%EC%9C%A0%EC%B6%9C/2025/05/21/SKT/" rel="alternate" type="text/html" title="SKT 유심 정보 유출 사건" /><published>2025-05-21T01:00:00+00:00</published><updated>2025-05-21T01:00:00+00:00</updated><id>http://localhost:4000/%EC%A0%95%EB%B3%B4%EC%9C%A0%EC%B6%9C/2025/05/21/SKT</id><content type="html" xml:base="http://localhost:4000/%EC%A0%95%EB%B3%B4%EC%9C%A0%EC%B6%9C/2025/05/21/SKT/"><![CDATA[<h2 id="사건-개요">사건 개요</h2>
+
+<p>2025년 4월 18일, <strong>SK텔레콤의 서버와 인증 시스템을 대상으로 한 해킹 공격</strong>이 발생했습니다. 공격자는 SKT의 핵심 인증 서버(HSS, UDM)에 침투하여 고객 유심 인증 정보인 <code class="language-plaintext highlighter-rouge">IMSI</code>, <code class="language-plaintext highlighter-rouge">KI</code> 등을 유출한 정황이 포착되었습니다. 피해 규모는 <strong>약 2,300만 명</strong>에 달하며, <strong>KISA(한국인터넷진흥원)</strong> 에 즉시 보고되었습니다.</p>
+
+<p>공격자는 <strong>BPFDoor 계열의 리눅스 백도어</strong>를 사용한 것으로 분석되었으며, 이는 포트 리스닝 없이 통신하며 탐지 회피 기능까지 갖춘 고도화된 악성코드입니다.</p>
+
+<h2 id="인증-체계의-구조적-취약점">인증 체계의 구조적 취약점</h2>
+
+<p>이동통신망에서 사용되는 <code class="language-plaintext highlighter-rouge">IMSI</code>, <code class="language-plaintext highlighter-rouge">KI</code>는 가입자 인증의 핵심입니다. 이 값들이 유출되면 <strong>복제 유심 제작</strong>, <strong>SIM 스와핑</strong> 등을 통한 <strong>2차 피해</strong>가 가능해지며, 실질적으로 <strong>전화번호 탈취</strong>가 일어날 수 있습니다.</p>
+
+<p>이번 공격은 LTE의 <code class="language-plaintext highlighter-rouge">HSS</code>, 5G의 <code class="language-plaintext highlighter-rouge">UDM</code> 시스템이 중심 인증 데이터를 보유한 상태로 운영되는 구조적 문제와 <strong>망 분리 미흡</strong>, <strong>운영체제 보안 취약점</strong>, <strong>내부 접근 통제 부족</strong>이 복합적으로 작용한 결과로 평가됩니다.</p>
+
+<h2 id="침해-경로-추정">침해 경로 추정</h2>
+
+<ul>
+  <li>내부 리눅스 서버가 <strong>BPFDoor 악성코드에 감염</strong></li>
+  <li>인증 흐름을 따라 <strong>MME → HSS / AMF → UDM</strong> 통신을 가로채거나 감시</li>
+  <li>공격자는 유심 인증 정보를 대량 탈취한 것으로 추정됨</li>
+</ul>
+
+<h2 id="예상-피해-시나리오">예상 피해 시나리오</h2>
+
+<ol>
+  <li><strong>복제 유심 제작</strong> → 타인으로 위장한 통신망 접근</li>
+  <li><strong>SMS 인증 탈취</strong> → 금융 서비스, SNS 계정 탈취</li>
+  <li><strong>SIM 스와핑</strong> → 유심 교체를 가장한 본인 사칭</li>
+  <li><strong>전화번호 기반 OTP 무력화</strong> → 이중 인증 회피</li>
+</ol>
+
+<p>IMSI와 KI 유출은 단순한 정보 유출을 넘어 <strong>디지털 신분 복제</strong>로 이어질 수 있는 심각한 보안 위협입니다.</p>
+
+<h2 id="대응-및-보안-강화-방안">대응 및 보안 강화 방안</h2>
+
+<ul>
+  <li>SKT는 <strong>전국 대리점을 통한 유심 무료 교체</strong> 진행 중</li>
+  <li><strong>유심 보호 서비스</strong> 확대: IMEI와 유심을 매칭해 비인가 기기 차단</li>
+  <li>피해 발생 시 <strong>100% 보상 정책</strong> 선언</li>
+  <li><strong>시스템 전수조사 및 인증 흐름 보안 강화</strong> 중</li>
+</ul>
+
+<h2 id="개인이-할-수-있는-보안-수칙">개인이 할 수 있는 보안 수칙</h2>
+
+<ul>
+  <li><strong>유심 교체</strong> 및 <strong>eSIM 전환</strong> 고려</li>
+  <li><strong>2단계 인증 활성화</strong></li>
+  <li><strong>문자 기반 인증 최소화</strong>, OTP/생체인증 도입</li>
+  <li>수상한 문자, 이메일 <strong>절대 클릭 금지</strong></li>
+</ul>
+
+<hr />
+
+<p><strong>이번 SKT 유심 해킹 사건</strong>은 단순한 정보 유출 사고가 아닌, <strong>통신망 인증 체계 전체에 대한 위협</strong>으로 해석되어야 하며, 개인과 기업 모두 보안 인식을 새롭게 정립해야 하는 계기가 됩니다.</p>
+
+<blockquote>
+  <p>출처: 보안뉴스, 연합뉴스, KISA, Trend Micro 외</p>
+</blockquote>]]></content><author><name>UIGYEOL</name></author><category term="정보유출" /><category term="skt" /><category term="정보유출" /><category term="HSS" /><summary type="html"><![CDATA[사건 개요]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/skt01.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/skt01.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2024년 네트워크 관리사 2주 합격 공부법과 후기</title><link href="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/" rel="alternate" type="text/html" title="2024년 네트워크 관리사 2주 합격 공부법과 후기" /><published>2025-05-14T01:00:00+00:00</published><updated>2025-05-14T01:00:00+00:00</updated><id>http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips</id><content type="html" xml:base="http://localhost:4000/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/"><![CDATA[<h2 id="1-네트워크-관리사-자격증이란">1. 네트워크 관리사 자격증이란?</h2>
 
 <p>정보통신기술자격협회에서 주관하는 자격증으로, <strong>네트워크 관련 실무 능력을 인증</strong>하는 시험입니다.</p>
 

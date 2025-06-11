@@ -1,11 +1,27 @@
 [
   
     {
-      "title"    : "세미전공자의 네트워크 관리사 2주 합격 공부법과 후기",
+      "title"    : "2025년 정보보호 취업박람회 후기",
+      "category" : "CybersecurityCareer",
+      "tags"     : "정보보안기사, CPPG, 포트폴리오, 취업박람회, PM경험",
+      "url"      : "/cybersecurity/career/2025/06/04/ISfair/",
+      "date"     : "2025-06-04 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "SKT 유심 정보 유출 사건",
+      "category" : "",
+      "tags"     : "skt, 정보유출, HSS",
+      "url"      : "/%EC%A0%95%EB%B3%B4%EC%9C%A0%EC%B6%9C/2025/05/21/SKT/",
+      "date"     : "2025-05-21 01:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024년 네트워크 관리사 2주 합격 공부법과 후기",
       "category" : "",
       "tags"     : "네트워크관리사, 2급, 후기, 공부법, 실기",
       "url"      : "/network/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/network-study-tips/",
-      "date"     : "2025-05-14 10:00:00 +0900"
+      "date"     : "2025-05-14 01:00:00 +0000"
     } 
   
 ]
