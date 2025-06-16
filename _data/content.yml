@@ -116,25 +116,25 @@ testimonials:
       role: "Coworker"
       text: "항상 어려운 일도 차분히 해결해가는 모습, 정말 인상 깊었어요. 덕분에 프로젝트도 안정적으로 진행될 수 있었던 것 같아요. 앞으로도 함께 잘 맞춰가요."
 
-    - image: "assets/img/testimonials/testi4-1.jpg"
-      name: "Charlie Smith"
+    - image: "assets/img/testimonials/coworker1.jpg"
+      name: "J.I KIm"
       role: "Designer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      text: "과제를 깊이 이해하고 차분하게 문제를 해결하는 모습이 인상적이었어요. 또한 팀을 잘 이끌어 프로젝트가 원활히 진행될 수 있었습니다. 함께 일할 수 있어 정말 기뻤고 좋은 경험이었습니다."
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
-      name: "Roy Wang"
+    - image: "assets/img/testimonials/coworker1.jpg"
+      name: "S.H Kim"
       role: "Manager GYM"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      text: "프로젝트의 전반적인 업무를 맡아 가장 많은 일을 담당했으며 풍부한 지식으로 팀원들이 해야 할 일을 명확히 인지시켜 주었다. 위기 상황에서도 이성적인 판단과 빠른 대응으로 팀을 이끌며 어려움을 함께 극복해 나갔다."
 
-    - image: "assets/img/testimonials/testi4-3.jpg"
-      name: "Jennifer Smith"
-      role: "CEO &amp; Founder"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    # - image: "assets/img/testimonials/testi4-3.jpg"
+    #   name: "Jennifer Smith"
+    #   role: "CEO &amp; Founder"
+    #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-5.jpg"
-      name: "Paul Freeman"
-      role: "Photographer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    # - image: "assets/img/testimonials/testi4-5.jpg"
+    #   name: "Paul Freeman"
+    #   role: "Photographer"
+    #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # ### Pricing [ pricing ]
