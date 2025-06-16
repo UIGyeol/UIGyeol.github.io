@@ -37,15 +37,15 @@ footer:
   developer: "Developed by <strong>bslthemes</strong>"
   copyright: "<strong>Luique</strong>. All rights reserved"
 
-### Portfolio Filters Settings
-portfolio:
-  layout: "list" # select works layout options: "Grid" or "List"
-  filters:
-    - name: "Cybersecurity & Forensics"
-      slug: "Cybersecurity & Forensics"
+# ### Portfolio Filters Settings
+# portfolio:
+#   layout: "list" # select works layout options: "Grid" or "List"
+#   filters:
+#     - name: "Cybersecurity & Forensics"
+#       slug: "Cybersecurity & Forensics"
 
-    - name: "Cryptography & Development"
-      slug: "Cryptography & Development"
+#     - name: "Cryptography & Development"
+#       slug: "Cryptography & Development"
 
-    - name: "UI/UX & Tools"
-      slug: "UI/UX & Tools"
+#     - name: "UI/UX & Tools"
+#       slug: "UI/UX & Tools"
