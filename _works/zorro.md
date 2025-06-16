@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Zorro
-category: Branding
-category_slug: branding
+category: "보안 분석, 사고 대응"
+category_slug: "security-analysis"
 image: assets/img/works/work5.jpeg
 short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
