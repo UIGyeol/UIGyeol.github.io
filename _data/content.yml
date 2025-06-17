@@ -28,7 +28,7 @@ hero:
 ### Services [ services ]
 services:
   title: "What I Do!!"
-  subtitle: "<b> my </b>"
+  subtitle: "<b> </b>"
   bg_title: ""
 
   items:
@@ -53,25 +53,26 @@ services:
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
-  subtitle: "<b>my</b>"
+  subtitle: "<b></b>"
   bg_title: ""
 
   column1:
     items:
-      - label: "Cybersecurity & Forensics" #0-10 progress in dots
-        text: Network Security (iptables, DMZ) Incident Response & Forensics Vulnerability Assessment (Nmap, Nessus)"
+      - label: "Python" #0-10 progress in dots
+        text: "Capable of implementing ransomware simulators, encryption algorithms (ChaCha20, AES), 
+        GUI applications using Tkinter, subprocess handling, file operations, network transmission, and obfuscation"
         value: "85" #0-100 progress in %
   column2:
     items:
-      - label: "Cryptography & Development" #0-10 progress in dots
-        text: "Python (Crypto, Scripts)ChaCha20 / AES / RSA 
-        Implementation Bash & Linux Automation"
+      - label: "HTML/CSS	" #0-10 progress in dots
+        text: "Able to build and customize static websites using Jekyll and GitHub Pages"
         value: "75" #0-100 progress in %
 
   column3:
     items:
-      - label: "UI/UX & Tools" #0-10 progress in dots
-        text: "Tkinter GUI (Security Apps)"
+      - label: "Bash (Shell)" #0-10 progress in dots
+        text: "ntermediate-level Bash skills, including file and permission management, 
+        basic scripting, process and network control, and automation tasks for security practices."
         value: "75" #0-100 progress in %
 
 
