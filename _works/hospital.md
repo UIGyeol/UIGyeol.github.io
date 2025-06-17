@@ -38,13 +38,13 @@ gallery:
   - assets/img/works/hospital/007.png
   - assets/img/works/hospital/008.png
   - assets/img/works/hospital/009.png
-  - assets/img/works/hospital/0010.png
-  - assets/img/works/hospital/0011.png
-  - assets/img/works/hospital/0012.png
-  - assets/img/works/hospital/0013.png
-  - assets/img/works/hospital/0014.png
-  - assets/img/works/hospital/0015.png
-  - assets/img/works/hospital/0016.png
+  - assets/img/works/hospital/010.png
+  - assets/img/works/hospital/011.png
+  - assets/img/works/hospital/012.png
+  - assets/img/works/hospital/013.png
+  - assets/img/works/hospital/014.png
+  - assets/img/works/hospital/015.png
+  - assets/img/works/hospital/016.png
 
 # description2:
 #   title: Project Result
