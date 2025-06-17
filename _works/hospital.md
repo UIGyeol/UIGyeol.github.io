@@ -20,7 +20,7 @@ info:
 description1:
   show: yes
   title: Project Goal
-  text: description1:
+  text: description1
   show: yes
   title: Project Goal
   text: |
