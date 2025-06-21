@@ -4,13 +4,13 @@ layout: works-single
 title: 네트워크 보안 실습 프로젝트 
 category: networksecurity
 category_slug: networksecurity
-image: assets/img/works/NETWORK/1.png
+image: assets/img/NETWORK/1.png
 short_description: Kali, Ubuntu 기반의 가상 네트워크에서 SNMP 스캔, 세션 하이재킹, DoS 등 다양한 공격과 대응 실습을 진행한 프로젝트
 
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/NETWORK/1.png
+full_image: assets/img/NETWORK/1.png
 info:
   - label: Year
     value: 2025
@@ -31,35 +31,35 @@ description1:
     <p>본 실습은 이론 중심이 아닌 실습 중심의 학습을 통해 사이버 공격의 원리와 대응 방법에 대한 실질적 경험을 쌓는 것을 목표로 하였습니다.</p>
 
 gallery:
-  - assets/img/works/NETWORK/2.png  
-  - assets/img/works/NETWORK/3.png
-  - assets/img/works/NETWORK/4.png  
-  - assets/img/works/NETWORK/5.png
-  - assets/img/works/NETWORK/6.png  
-  - assets/img/works/NETWORK/7.png
-  - assets/img/works/NETWORK/8.png  
-  - assets/img/works/NETWORK/9.png
-  - assets/img/works/NETWORK/10.png
-  - assets/img/works/NETWORK/11.png
-  - assets/img/works/NETWORK/12.png
-  - assets/img/works/NETWORK/13.png
-  - assets/img/works/NETWORK/14.png
-  - assets/img/works/NETWORK/15.png
-  - assets/img/works/NETWORK/16.png
-  - assets/img/works/NETWORK/17.png
-  - assets/img/works/NETWORK/18.png
-  - assets/img/works/NETWORK/19.png
+  - assets/img/NETWORK/2.png  
+  -  assets/img/NETWORK/3.png
+  - assets/img/NETWORK/4.png  
+  - assets/img/NETWORK/5.png
+  - assets/img/NETWORK/6.png  
+  - assets/img/NETWORK/7.png
+  - assets/img/NETWORK/8.png  
+  - assets/img/NETWORK/9.png
+  - assets/img/NETWORK/10.png
+  - assets/img/NETWORK/11.png
+  - assets/img/NETWORK/12.png
+  - assets/img/NETWORK/13.png
+  - assets/img/NETWORK/14.png
+  - assets/img/NETWORK/15.png
+  - assets/img/NETWORK/16.png
+  - assets/img/NETWORK/17.png
+  - assets/img/NETWORK/18.png
+  - assets/img/NETWORK/19.png
 
-  - assets/img/works/Network/20.png
-  - assets/img/works/Network/21.png
-  - assets/img/works/Network/22.png
-  - assets/img/works/Network/23.png
-  - assets/img/works/Network/24.png
-  - assets/img/works/Network/25.png
-  - assets/img/works/Network/26.png
-  - assets/img/works/Network/27.png
-  - assets/img/works/Network/28.png
-  - assets/img/works/Network/29.png
+  - assets/img/Network/20.png
+  - assets/img/Network/21.png
+  - assets/img/Network/22.png
+  - assets/img/Network/23.png
+  - assets/img/Network/24.png
+  - assets/img/Network/25.png
+  - assets/img/Network/26.png
+  - assets/img/Network/27.png
+  - assets/img/Network/28.png
+  - assets/img/Network/29.png
 
 # description2:
 #   title: Project Result
