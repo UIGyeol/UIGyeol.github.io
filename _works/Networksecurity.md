@@ -49,7 +49,6 @@ gallery:
   - assets/img/NETWORK/17.png
   - assets/img/NETWORK/18.png
   - assets/img/NETWORK/19.png
-
   - assets/img/Network/20.png
   - assets/img/Network/21.png
   - assets/img/Network/22.png
