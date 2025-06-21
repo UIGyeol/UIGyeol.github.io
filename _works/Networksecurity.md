@@ -49,16 +49,16 @@ gallery:
   - assets/img/NETWORK/17.png
   - assets/img/NETWORK/18.png
   - assets/img/NETWORK/19.png
-  - assets/img/Network/20.png
-  - assets/img/Network/21.png
-  - assets/img/Network/22.png
-  - assets/img/Network/23.png
-  - assets/img/Network/24.png
-  - assets/img/Network/25.png
-  - assets/img/Network/26.png
-  - assets/img/Network/27.png
-  - assets/img/Network/28.png
-  - assets/img/Network/29.png
+  - assets/img/NETWORK/20.png
+  - assets/img/NETWORK/21.png
+  - assets/img/NETWORK/22.png
+  - assets/img/NETWORK/23.png
+  - assets/img/NETWORK/24.png
+  - assets/img/NETWORK/25.png
+  - assets/img/NETWORK/26.png
+  - assets/img/NETWORK/27.png
+  - assets/img/NETWORK/28.png
+  - assets/img/NETWORK/29.png
 
 # description2:
 #   title: Project Result
