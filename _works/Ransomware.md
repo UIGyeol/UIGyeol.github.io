@@ -10,7 +10,7 @@ short_description: 이 프로젝트는 Linux,Windows,Redstar 환경에서 랜섬
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/ransomare/1.png
+full_image: assets/img/ransomware/1.png
 info:
   - label: Year
     value: 2025
@@ -45,8 +45,6 @@ gallery:
   - assets/img/ransomware/18.png
   - assets/img/ransomware/19.png
   - assets/img/ransomware/20.png
-  - assets/img/ransomware/21.png
-  - assets/img/ransomware/22.png
 
 
 # description2:
