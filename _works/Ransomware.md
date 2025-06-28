@@ -45,6 +45,8 @@ gallery:
   - assets/img/ransomware/18.png
   - assets/img/ransomware/19.png
   - assets/img/ransomware/20.png
+  - assets/img/ransomware/22.png
+  - assets/img/ransomware/23.png
 
 
 # description2:
