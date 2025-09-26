@@ -1,3 +1,4 @@
+<!--
 ---
 layout: works-single
 title: "SQL INJECTION 취약성 확인 및 코드 수정"
@@ -29,3 +30,4 @@ gallery:
   - "assets/img/sqlinjection/6.png"
   - "assets/img/sqlinjection/7.png"
 ---
+-->
